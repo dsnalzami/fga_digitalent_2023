@@ -12,6 +12,6 @@ Rumus Pythagoras: $c^2 = a^2 + b^2$
 
 ## ini tabel header
 kolom 1 | kolom 2
------------------
+--------|---------
 data 1 | data 2
 data 3 | data 4
